@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MeteoKotlin</string>
+    <string name="enterCityName">Enter City Name</string>
+    <string name="text_temperature">0°</string>
+    <string name="text_city">City Motreal</string>
+    <string name="text_conditionMeteo">Snowing</string>
+    <string name="text_welcome">Please entry the city name that you want to know the weather conditions</string>
+    <string name="text_button1">Montreal</string>
+    <string name="text_button2">San Francisco</string>
+    <string name="text_searchbylocation">Weather coditions actual location</string>
+</resources>
